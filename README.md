@@ -7,8 +7,7 @@
 ---
 
 ## 📌 About Me  
-Hey there! I'm **Tian**, a software engineer with expertise in **JavaScript, TypeScript, React, Vue.js, and modern frontend development**. I have a strong background in building **scalable UI components**, handling **state management**, and optimizing performance for web applications.  
-
+Hey there! I'm **Tian**, a software engineer with expertise in **JavaScript, TypeScript, React, Vue.js, and modern frontend development**. I have a strong background in building **scalable UI components**, handling **state management**, and optimizing performance for web applications.
 I also have experience with **backend technologies**, API integrations, and DevOps practices. Currently, I run **BAGIWEBSITE**, an IT services business.
 ---
 
